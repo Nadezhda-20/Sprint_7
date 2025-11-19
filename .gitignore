@@ -143,3 +143,5 @@ test-results/
 
 # Local configuration
 local_settings.*
+
+test_ya_scooter.py
